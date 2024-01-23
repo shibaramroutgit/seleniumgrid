@@ -1,0 +1,22 @@
+13:30:13.606 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:38 - AB1
+13:30:13.707 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:42 - All2
+13:30:13.708 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:44 - Info message
+13:30:13.709 [main] WARN  org.example.testcases.JenkinB - JenkinB.TC1:45 - Warning message
+13:30:13.709 [main] ERROR org.example.testcases.JenkinB - JenkinB.TC1:46 - Error message
+13:30:13.710 [main] FATAL org.example.testcases.JenkinB - JenkinB.TC1:47 - Fatal message
+13:30:37.579 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC2:53 - AB3
+13:30:37.718 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC2:57 - Al4
+13:30:37.719 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC2:59 - Info message
+13:30:37.720 [main] WARN  org.example.testcases.JenkinB - JenkinB.TC2:60 - Warning message
+13:30:37.721 [main] ERROR org.example.testcases.JenkinB - JenkinB.TC2:61 - Error message
+13:30:37.722 [main] FATAL org.example.testcases.JenkinB - JenkinB.TC2:62 - Fatal message
+13:31:00.468 [main] INFO  org.example.testcases.TestNG - TestNG.TC1:35 - AB5
+13:31:00.515 [main] INFO  org.example.testcases.TestNG - TestNG.TC1:39 - All6
+13:31:28.602 [main] INFO  org.example.testcases.TestNG - TestNG.TC2:45 - AB7
+13:31:28.677 [main] INFO  org.example.testcases.TestNG - TestNG.TC2:49 - All8
+14:11:44.425 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:38 - AB1
+14:11:44.549 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:42 - All2
+14:11:44.549 [main] INFO  org.example.testcases.JenkinB - JenkinB.TC1:44 - Info message
+14:11:44.550 [main] WARN  org.example.testcases.JenkinB - JenkinB.TC1:45 - Warning message
+14:11:44.551 [main] ERROR org.example.testcases.JenkinB - JenkinB.TC1:46 - Error message
+14:11:44.552 [main] FATAL org.example.testcases.JenkinB - JenkinB.TC1:47 - Fatal message
